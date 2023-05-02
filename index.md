@@ -9,7 +9,7 @@ Once data is generated, varying amounts of data processing is required to conver
 As I learn how to make tables in markdown language, this section is a work in progress. Grad student 1 has all but one of the reponsibilities. Responsibilities include: DMP implementation, access control, data manager, data organization, data protection, data archiving and preservation, data documentation, data collection, data quality control, maintenance of resources, data analysis, knowledge transition, and communication.
 
 Here is the table so far: 
--Role -Performed By -Reponsibilities
+---Role ---Performed By ---Reponsibilities
 DMP implementation | Grad Student 1 | Ensure all project members understand their role, their reponsibilities, and are performing in their role.
 
 # Data Standards and Metadata
